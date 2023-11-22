@@ -1,0 +1,3 @@
+C:/Users/justin/CLionProjects/CuatroEnLinea/cmake-build-debug/CMakeFiles/CuatroEnLinea.dir
+C:/Users/justin/CLionProjects/CuatroEnLinea/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/justin/CLionProjects/CuatroEnLinea/cmake-build-debug/CMakeFiles/rebuild_cache.dir
